@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+}
+main{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h1 {
+    text-align: center;
+}
+.breadcrumbs ul{
+    list-style-type: none;
+    background-color: darkgray;
+    padding: 0px;
+    margin: 0px;
+overflow: hidden;
+}
+.breadcrumbs a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.breadcrumbs a:hover{
+    background-color: black;
+}
+.breadcrumbs li{
+    float: left;
+}
